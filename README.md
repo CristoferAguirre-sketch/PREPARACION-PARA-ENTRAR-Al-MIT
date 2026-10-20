@@ -11,7 +11,8 @@ viernes: aprender un poco de ingeniería con Khan Academy.
 
 # SEMANA 1:
 Fue largo la manera de inscribirme y no pude hacer el cs50 pero el martes aprendí lo basico de C++ como la estructura que se empieza que es:
-<img width="1353" height="557" alt="image" src="https://github.com/user-attachments/assets/c4390acc-f19c-40ea-9683-598b6d68fd14" /> 
+<img width="1000" height="411" alt="image" src="https://github.com/user-attachments/assets/3ff15334-3351-4287-8fcd-bff56c3f5af3" />
+
 aparte de aprender a usar el codigo en programiz estoy aprendiendo con el aprendi las variables, estructura y como plasmarlo eso en "produccion".
 
 En TINKERCAD miro a Jhoan Perez E para aprender robotica y lo simulo en Tinkercad.
