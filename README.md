@@ -3,11 +3,11 @@
 Mi mas grande sueño es entrar a MIT a estudiar ingenieria robotica pls MIT acepteme (ahora no porque tengo 13)
 CADA FIN DE SEMANA REGISTRARE MIS AVANZES
 ### mi rutina:
-lunes: CS50
-martes: c++
-miercoles: simular proyectos de robotica con tinkercad
-jueves: 1 hora de duolingo extra
-viernes: aprender un poco de ingeniería con Khan Academy
+lunes: CS50.
+martes: c++.
+miercoles: simular proyectos de robotica con tinkercad.
+jueves: 1 hora de duolingo extra.
+viernes: aprender un poco de ingeniería con Khan Academy.
 
 # SEMANA 1:
 Fue largo la manera de inscribirme y no pude hacer el cs50 pero el martes aprendí lo basico de C++ como la estructura que se empieza que es:
