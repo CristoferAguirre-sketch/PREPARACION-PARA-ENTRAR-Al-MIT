@@ -3,7 +3,7 @@
 Mi mas grande sueño es entrar a MIT a estudiar ingenieria robotica pls MIT acepteme (ahora no porque tengo 13)
 CADA FIN DE SEMANA REGISTRARE MIS AVANZES
 ### mi rutina:
-lunes: CS50.
+lunes: CS50
 martes: c++.
 miercoles: simular proyectos de robotica con tinkercad.
 jueves: 1 hora de duolingo extra.
