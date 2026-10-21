@@ -21,4 +21,5 @@ Estoy en la etapa 2, sección 1 de Duolingo "comprar ropa".
 
 EN Khan Academy estoy reforzando 7° ya avance la 4 parte del curso y conforme progrese aumentare a algebra lineal ingeniería, electronica, etc.
 Aparte estoy entrenando MMA
+
 -----------------------------------------------------------------------------
